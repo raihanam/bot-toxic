@@ -1080,25 +1080,25 @@ else if (text == '.foto'){
 conn.sendMessage(id, 'kirim .foto cewek/cowok\n\nContoh: .foto cewek' ,MessageType.text);
 }
 else if (text == '.help'){
-conn.sendMessage(id, ' _🤖MAKASIH LOH UDAH DI PAKE. BOT KITA 🤖💌 ,MessageType.text);
+conn.sendMessage(id, ' _🤖Thanks Telah Menggunakan BOT *👾AN BOT👾* ' ,MessageType.text);
 }
 else if (text == '.tools1'){
-conn.sendMessage(id, ' _🗣️makasih loh' ,MessageType.text);
+conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾AN BOT👾* ' ,MessageType.text);
 }
 else if (text == '.menu'){
-conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾lentbot👾* , Follow Instagram Mimin Yah😻 : https://instagram.com/naslent11' ,MessageType.text);
+conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾AN BOT👾* ' ,MessageType.text);
 }
 else if (text == '.tool2'){
-conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾lentbot👾* , Follow Instagram Mimin Yah😻 : https://instagram.com/maslent11' ,MessageType.text);
+conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾AN BOT👾* ' ,MessageType.text);
 }
 else if (text == '.tools3'){
-conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾lentbot👾* , Follow Instagram Mimin Yah😻 : https://instagram.com/maslent11' ,MessageType.text);
+conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾AN BOT👾* ' ,MessageType.text);
 }
 else if (text == '.tools4'){
-conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾lentbot👾* , Follow Instagram Mimin Yah😻 : https://instagram.com/maslent11' ,MessageType.text);
+conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾AN BOT👾* ' ,MessageType.text);
 }
 else if (text == '.tools5'){
-conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾lentbot👾* , Follow Instagram Mimin Yah😻 : https://www.youtube.com/channel/UCAn_1yox-jIUFhUVYTxI_JA' ,MessageType.text);
+conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾AN BOT👾* ' ,MessageType.text);
 }
    if (messageType == 'imageMessage')
    {
