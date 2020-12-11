@@ -1715,4 +1715,3 @@ if (text.includes(".alay")){
 //Tolonglah bro jangan di ubah ubah XP-TN
 
 
-})
