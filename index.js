@@ -478,7 +478,7 @@ conn.sendMessage(id, '[WAIT] TOBAT WOI ANJING LAH❗', MessageType.text)
 if (text.includes(".cersex2")){
 const teks = text.replace(/.cersex2 /, "")
 axios.get(`https://arugaz.herokuapp.com/api/cersex1`).then((res) => {
-conn.sendMessage(id, '[WAIT] TOBAT ANJING YA ALLAH'❗', MessageType.text)
+conn.sendMessage(id, '[WAIT] TOBAT WOI '❗', MessageType.text)
     let hasil = ` *Nih cersex Kak :)*\n\n _${res.data.result}_ `;
     conn.sendMessage(id, hasil ,MessageType.text);
 })
