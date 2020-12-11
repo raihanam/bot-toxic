@@ -31,7 +31,6 @@ const xp4 = require("./lib/xp4.js");
 const xp5 = require("./lib/xp5.js");
 const readTextInImage = require('./lib/ocr')
 //
-const
 {
    WAConnection,
    MessageType,
@@ -43,8 +42,9 @@ const
    ReconnectMode,
    ProxyAgent,
    waChatKey,
-} = require("@Andika/baileys");
+} = require("@adiwajshing/baileys");
 var jam = moment().format("HH:mm");
+
 
 function foreach(arr, func)
 {
@@ -60,7 +60,7 @@ conn.on('qr', qr =>
    {
       small: true
    });
-   console.log(`[ ${moment().format("HH:mm:ss")} ] SCAN QR NYA NJING, TERUS YUK NGENTOT!`);
+   console.log(`[ ${moment().format("HH:mm:ss")} ] scan cepet terus kita ngentot!`);
 });
 
 conn.on('credentials-updated', () =>
