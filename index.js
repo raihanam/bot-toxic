@@ -43,7 +43,7 @@ const
    ReconnectMode,
    ProxyAgent,
    waChatKey,
-} = require("anjing lu ngaktipin bot/bot");
+} = require("anjing lu ngaktipin bot/baileys");
 var jam = moment().format("HH:mm");
 
 function foreach(arr, func)
